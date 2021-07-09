@@ -1,0 +1,24 @@
+
+.heroBanner{
+    height: 40vh;
+    background-image: url("../../images/home-banner.jpg");
+    background-position: bottom center;
+    background-repeat: no-repeat;;
+    background-size: cover;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+
+.heroBanner  h1 {
+    font-size: 55px;
+    color: white;
+    font-weight: 400;
+}
+
+.team-section {
+    background-color: #0e0a2a;
+    padding: 20px 0;
+
+}

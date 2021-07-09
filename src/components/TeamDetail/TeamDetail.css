@@ -1,0 +1,51 @@
+.detail-section {
+    background-color: #0e0a2a;
+    padding: 50px 0;
+}
+.team-image  {
+    width: 50%;
+}
+
+.top-section {
+    background-color: #fc4d57;
+    padding: 20px;
+    border-radius: 25px;
+    color: white;
+}
+
+.detail-head h2 {
+    font-size: 40px;
+    margin-bottom: 15px;
+    font-weight: 600;
+}
+
+.detail-head h5 {
+    font-size: 20px;
+    line-height: 28px;
+    
+}
+
+
+.detail-image img {
+    width: 100%;
+   
+}
+
+.detail-body p {
+    margin-top: 50px;
+    color: #c6c6c6;
+    font-size: 16px;
+}
+
+.icon {
+    width: 20px;
+    margin-right: 10px;
+}
+
+.social-media {
+    text-align: center;
+}
+.social-media img {
+    width: 55px;
+    margin: 25px 4px 0;
+}
